@@ -5,8 +5,7 @@ A multi-threaded Python framework for controlling one or more UAVs from a hand-h
 
 * Ability to receive/send MAVLink packets over UDP ports
 * Stream incoming video inside Tkinter
-* Plot received data in real-time
+* Plot data stream in real-time
 * Monitor status of multiple MAVs in the vicinity
 * Send joystick input to an active MAVs
-
 
